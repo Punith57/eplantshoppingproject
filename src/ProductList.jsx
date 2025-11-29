@@ -310,7 +310,7 @@ function ProductList() {
               alt=""
             />
             <a
-              href="/paradise-nursery-shopping-cart-app/"
+              href="/eplantshoppingproject/"
               style={{ textDecoration: "none" }}
             >
               <div>
